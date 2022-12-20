@@ -2,7 +2,7 @@
 
 Привет! Меня зовут Сергей. Я Веб-Разработчик
 
-<a href=""><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="tg"></a>
+<a href="http://t.me/sergeykomyza"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="tg"></a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergeykomyza)](https://github.com/sergeykomyza/github-readme-stats)
 
