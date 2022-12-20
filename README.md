@@ -34,7 +34,7 @@
 *   GIT
 *   Figma
 
-### Мои работы
+### 📜 Мои работы
 *   <a href="https://sergeykomyza.github.io/Master-Keratina/">Master Keratina</a>
 *   <a href=""></a>
 *   <a href=""></a>
