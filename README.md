@@ -11,6 +11,7 @@
 <a href="https://vk.com/id141299749" target="_blank">
 	<img src="https://img.shields.io/badge/VK-2CA5E0?style=for-the-badge&logo=VK&logoColor=white" alt="VK" >
 </a>
+<hr>
 
 <p>Навыки</p>
 
