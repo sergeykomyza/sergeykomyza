@@ -35,12 +35,12 @@
 *   Figma
 
 ### 📜 Мои работы
-*   <a href="https://sergeykomyza.github.io/Master-Keratina/">Master Keratina</a>
-*   <a href=""></a>
-*   <a href=""></a>
-*   <a href=""></a>
-*   <a href=""></a>
-*   <a href=""></a>
+*   <a href="https://sergeykomyza.github.io/Master-Keratina/">Master Keratina (Салон красоты)</a>
+*   <a href="https://sergeykomyza.github.io/Salat/build/index.html">Салат (Интернет-магазин по продаже свежих овощей и фруктов)</a>
+*   <a href="https://sergeykomyza.github.io/B-Free/">Продажа защитных масок</a>
+*   <a href="https://sergeykomyza.github.io/Sphera/build/index.html">Инвестиционная управляющая компания</a>
+*   <a href="https://sergeykomyza.github.io/KBPark/build/index.html">Аренда офисных помещений</a>
+*   <a href="https://edcrunch.online/">Международная конференция </a>
 *   <a href=""></a>
 
 
