@@ -41,7 +41,7 @@
 *   <a href="https://sergeykomyza.github.io/Sphera/build/index.html">Сфера (Инвестиционная управляющая компания)</a>
 *   <a href="https://sergeykomyza.github.io/KBPark/build/index.html">КБ-парк (Аренда офисных помещений)</a>
 *   <a href="https://edcrunch.online/">Эдкранч (Международная конференция) </a>
-*   <a href=""></a>
+*   <a href="https://sergeykomyza.github.io/lorena-promo/build">Лорена (промо лендинг)</a>
 
 
 
