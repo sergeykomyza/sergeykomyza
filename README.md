@@ -36,6 +36,7 @@
 
 ### 📜 Мои работы
 *   <a href="https://sergeykomyza.github.io/Master-Keratina/">Master Keratina (Салон красоты)</a>
+*   <a href="https://sergeykomyza.github.io/Go-Surf/build/index.html">Go-Surf</a>
 *   <a href="https://sergeykomyza.github.io/Salat/build/index.html">Салат (Интернет-магазин по продаже свежих овощей и фруктов)</a>
 *   <a href="https://sergeykomyza.github.io/B-Free/">B-free(Продажа защитных масок)</a>
 *   <a href="https://sergeykomyza.github.io/Sphera/build/index.html">Сфера (Инвестиционная управляющая компания)</a>
