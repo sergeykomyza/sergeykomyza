@@ -43,6 +43,7 @@
 *   <a href="https://sergeykomyza.github.io/KBPark/build/index.html">КБ-парк (Аренда офисных помещений)</a>
 *   <a href="https://edcrunch.online/">Эдкранч (Международная конференция) </a>
 *   <a href="https://sergeykomyza.github.io/lorena-promo/build">Лорена (промо лендинг)</a>
+*   <a href="https://sergeykomyza.github.io/nedvijimost/build/home.html">Недвижимость в турции</a>
 
 
 
