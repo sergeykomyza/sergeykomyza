@@ -1,7 +1,9 @@
 
 # Привет, меня зовут Сергей! 👋
-Я Front-End разработчик
 
+### Я Front-End разработчик. Добро пожаловать в мой профиль. 🤗
+
+#
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=sergeykomyza&show_icons=true&count_private=true"><img
