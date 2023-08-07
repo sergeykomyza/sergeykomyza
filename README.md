@@ -47,6 +47,9 @@
 *   <a href="https://edcrunch.online/">Эдкранч (Международная конференция) </a>
 *   <a href="https://sergeykomyza.github.io/lorena-promo/build">Лорена (промо лендинг)</a>
 *   <a href="https://sergeykomyza.github.io/nedvijimost/build/home.html">Недвижимость в Турции</a>
+*   <a href="https://sergeykomyza.github.io/Master-Kredit/build/home.html">Помощь в оформлении кредита</a>
+
+
 
 
 
