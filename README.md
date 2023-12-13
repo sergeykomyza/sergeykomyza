@@ -5,6 +5,8 @@
 
 #
 
+https://project-cards.jtpotatodev.workers.dev/?project=asdf&started=7%20Dec%202023&codename=asdf
+
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=sergeykomyza&show_icons=true&count_private=true"><img
            height=150
