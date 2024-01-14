@@ -6,7 +6,7 @@
 #
 
 ### 📜 Портфолио
-*   <a href="https://github.com/sergeykomyza/Blagotvoritelniy-fond">Сайт благотворительного фонда</a>
+*   <a href="https://github.com/sergeykomyza/Blagotvoritelniy-fond/build" target="_blank">Сайт благотворительного фонда</a>
 *   <a href="https://sergeykomyza.github.io/arbolite/build/">Arbolite (Производство арболитовых блоков)</a>
 *   <a href="https://sergeykomyza.github.io/Articul/build/">Articul </a>
 *   <a href="https://sergeykomyza.github.io/AviTok/build/">AviTok(Портал размещения объявлений)</a>
