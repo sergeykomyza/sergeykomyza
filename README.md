@@ -4,7 +4,7 @@
 ### Я Front-End разработчик. Добро пожаловать в мой профиль. 🤗
 
 #
-https://sergeykomyza.github.io/arbolite/build/
+
 ### 📜 Портфолио
 *   <a href="https://github.com/sergeykomyza/Blagotvoritelniy-fond">Сайт благотворительного фонда</a>
 *   <a href="https://sergeykomyza.github.io/arbolite/build/">Arbolite (Производство арболитовых блоков)</a>
