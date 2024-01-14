@@ -5,6 +5,29 @@
 
 #
 
+### 📜 Портфолио
+*   <a href="https://sergeykomyza.github.io/AviTok/build/">AviTok(Портал размещения объявлений)</a>
+*   <a href="https://sergeykomyza.github.io/Master-Keratina/">Master Keratina (Салон красоты)</a>
+*   <a href="https://sergeykomyza.github.io/Go-Surf/build/index.html">Go-Surf</a>
+*   <a href="https://sergeykomyza.github.io/Salat/build/index.html">Салат (Интернет-магазин по продаже свежих овощей и фруктов)</a>
+*   <a href="https://sergeykomyza.github.io/B-Free/">B-free(Продажа защитных масок)</a>
+*   <a href="https://sergeykomyza.github.io/Sphera/build/index.html">Сфера (Инвестиционная управляющая компания)</a>
+*   <a href="https://sergeykomyza.github.io/KBPark/build/index.html">КБ-парк (Аренда офисных помещений)</a>
+*   <a href="https://edcrunch.online/">Эдкранч (Международная конференция) </a>
+*   <a href="https://sergeykomyza.github.io/lorena-promo/build">Лорена (промо лендинг)</a>
+*   <a href="https://sergeykomyza.github.io/nedvijimost/build/home.html">Недвижимость в Турции</a>
+*   <a href="https://sergeykomyza.github.io/Master-Kredit/build/home.html">Помощь в оформлении кредита</a>
+
+## 🛠 Ключевые навыки
+*   HTML5
+*   CSS3
+*   JavaScript
+*   GULP
+*   PUG
+*   SASS (SCSS)
+*   GIT
+*   Figma
+
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=sergeykomyza&show_icons=true&count_private=true"><img
            height=150
@@ -27,28 +50,9 @@
 	📫 Если решите мне написать: <a href='mailto:s.komiza@yandex.ru'>s.komiza@yandex.ru</a>
 </p>
 
-## 🛠 Ключевые навыки
-*   HTML5
-*   CSS3
-*   JavaScript
-*   GULP
-*   PUG
-*   SASS (SCSS)
-*   GIT
-*   Figma
 
-### 📜 Портфолио
-*   <a href="https://sergeykomyza.github.io/AviTok/build/">AviTok(Портал размещения объявлений)</a>
-*   <a href="https://sergeykomyza.github.io/Master-Keratina/">Master Keratina (Салон красоты)</a>
-*   <a href="https://sergeykomyza.github.io/Go-Surf/build/index.html">Go-Surf</a>
-*   <a href="https://sergeykomyza.github.io/Salat/build/index.html">Салат (Интернет-магазин по продаже свежих овощей и фруктов)</a>
-*   <a href="https://sergeykomyza.github.io/B-Free/">B-free(Продажа защитных масок)</a>
-*   <a href="https://sergeykomyza.github.io/Sphera/build/index.html">Сфера (Инвестиционная управляющая компания)</a>
-*   <a href="https://sergeykomyza.github.io/KBPark/build/index.html">КБ-парк (Аренда офисных помещений)</a>
-*   <a href="https://edcrunch.online/">Эдкранч (Международная конференция) </a>
-*   <a href="https://sergeykomyza.github.io/lorena-promo/build">Лорена (промо лендинг)</a>
-*   <a href="https://sergeykomyza.github.io/nedvijimost/build/home.html">Недвижимость в Турции</a>
-*   <a href="https://sergeykomyza.github.io/Master-Kredit/build/home.html">Помощь в оформлении кредита</a>
+
+
 
 
 
