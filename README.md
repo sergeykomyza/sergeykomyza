@@ -6,7 +6,7 @@
 #
 https://sergeykomyza.github.io/arbolite/build/
 ### 📜 Портфолио
-*   <a href="https://sergeykomyza.github.io/arbolite/build/">Arbolite</a>
+*   <a href="https://sergeykomyza.github.io/arbolite/build/">Arbolite (Производство арболитовых блоков)</a>
 *   <a href="https://sergeykomyza.github.io/AviTok/build/">AviTok(Портал размещения объявлений)</a>
 *   <a href="https://sergeykomyza.github.io/Master-Keratina/">Master Keratina (Салон красоты)</a>
 *   <a href="https://sergeykomyza.github.io/Go-Surf/build/index.html">Go-Surf</a>
