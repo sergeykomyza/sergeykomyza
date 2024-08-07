@@ -5,24 +5,24 @@
 
 #
 
-### 📜 Портфолио
-*   <a href="https://sergeykomyza.github.io/Moments/build/">Организация свадеб</a>
-*   <a href="https://sergeykomyza.github.io/Blagotvoritelniy-fond/build/">Сайт благотворительного фонда</a>
-*   <a href="https://sergeykomyza.github.io/arbolite/build/">Arbolite (Производство арболитовых блоков)</a>
+### 📜 Portfolio
+*   <a href="https://sergeykomyza.github.io/Moments/build/">Organization of weddings</a>
+*   <a href="https://sergeykomyza.github.io/Blagotvoritelniy-fond/build/">Website of the charity foundation</a>
+*   <a href="https://sergeykomyza.github.io/arbolite/build/">Arbolite (Production of arbolite blocks)</a>
 *   <a href="https://sergeykomyza.github.io/Articul/build/">Articul </a>
-*   <a href="https://sergeykomyza.github.io/AviTok/build/">AviTok(Портал размещения объявлений)</a>
-*   <a href="https://sergeykomyza.github.io/Master-Keratina/">Master Keratina (Салон красоты)</a>
+*   <a href="https://sergeykomyza.github.io/AviTok/build/">AviTok(Ad Placement Portal)</a>
+*   <a href="https://sergeykomyza.github.io/Master-Keratina/">Master Keratina (Beauty salon)</a>
 *   <a href="https://sergeykomyza.github.io/Go-Surf/build/index.html">Go-Surf</a>
-*   <a href="https://sergeykomyza.github.io/Salat/build/index.html">Салат (Интернет-магазин по продаже свежих овощей и фруктов)</a>
-*   <a href="https://sergeykomyza.github.io/B-Free/">B-free(Продажа защитных масок)</a>
-*   <a href="https://sergeykomyza.github.io/Sphera/build/index.html">Сфера (Инвестиционная управляющая компания)</a>
-*   <a href="https://sergeykomyza.github.io/KBPark/build/index.html">КБ-парк (Аренда офисных помещений)</a>
-*   <a href="https://edcrunch.online/">Эдкранч (Международная конференция) </a>
-*   <a href="https://sergeykomyza.github.io/lorena-promo/build">Лорена (промо лендинг)</a>
-*   <a href="https://sergeykomyza.github.io/nedvijimost/build/home.html">Недвижимость в Турции</a>
-*   <a href="https://sergeykomyza.github.io/Master-Kredit/build/home.html">Помощь в оформлении кредита</a>
+*   <a href="https://sergeykomyza.github.io/Salat/build/index.html">Салат (Online store selling fresh vegetables and fruits)</a>
+*   <a href="https://sergeykomyza.github.io/B-Free/">B-free(Sale of protective masks)</a>
+*   <a href="https://sergeykomyza.github.io/Sphera/build/index.html">Сфера (Investment Management Company)</a>
+*   <a href="https://sergeykomyza.github.io/KBPark/build/index.html">KB-park (Office space rental)</a>
+*   <a href="https://edcrunch.online/">Edcrunch (International Conference)</a>
+*   <a href="https://sergeykomyza.github.io/lorena-promo/build">Lorena (promo landing page)</a>
+*   <a href="https://sergeykomyza.github.io/nedvijimost/build/home.html">Real estate in Turkey</a>
+*   <a href="https://sergeykomyza.github.io/Master-Kredit/build/home.html">Assistance in obtaining a loan</a>
 
-## 🛠 Ключевые навыки
+## 🛠 Key skills
 *   HTML5
 *   CSS3
 *   JavaScript
